@@ -49,7 +49,7 @@ In search for custom designed themes for MiniBlog.Core? [Click here](https://fra
 - OpenGraph support for Facebook, Twitter, Pinterest and more
   - [Run Facebook validator](https://developers.facebook.com/tools/debug/sharing/?q=https%3A%2F%2Fminiblogcore.azurewebsites.net%2F)
   - [Check the tags](http://opengraphcheck.com/result.php?url=https%3A%2F%2Fminiblogcore.azurewebsites.net%2F#.WdhRDjBlB3g)
-- Seach engine optimized
+- Search engine optimized
   - [Run SEO Site Checkup](https://seositecheckup.com/seo-audit/miniblogcore.azurewebsites.net)
 - Security HTTP headers set
   - [Run security scan](https://securityheaders.io/?q=https%3A%2F%2Fminiblogcore.azurewebsites.net%2F&hide=on&followRedirects=on)
